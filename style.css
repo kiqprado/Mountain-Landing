@@ -164,11 +164,11 @@ main {
 
 .mountain-9 {
   position: absolute;
-  width: 404px;
+  width: 383px;
   z-index: 5;
 
-  top: calc(50% + 111px);
-  left: calc(50% - 404px);
+  top: calc(50% + 121px);
+  left: calc(50% - 474px);
 }
 
 .mountain-8 {
